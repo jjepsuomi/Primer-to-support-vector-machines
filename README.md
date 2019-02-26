@@ -1,1 +1,2 @@
-# SVM-tutorial
+# Primer to support vector machines
+# By Jonne Pohjankukka
